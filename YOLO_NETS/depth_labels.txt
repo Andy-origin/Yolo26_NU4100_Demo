@@ -1,0 +1,5 @@
+# depth_labels.txt - Yolo26n-depth (dense regression, no object classes)
+# This file is intentionally empty: the monocular depth model produces a
+# dense depth map and does not use class names. Lines starting with '#'
+# are ignored by the loader; keeping this placeholder avoids a harmless
+# "unable to open labels file" notice at startup.

@@ -1,0 +1,9 @@
+# Runtime-generated output - not part of the shipped package
+result_images/
+recording_*.mp4
+depth_tail.bin
+
+# Local editor / OS junk
+Thumbs.db
+desktop.ini
+*.swp

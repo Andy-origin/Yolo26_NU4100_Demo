@@ -1,0 +1,7 @@
+YOLO26 NU4100 Demo Package
+==========================
+Package date : 2026-10-10 (rev6: mode overlay shows net input size + image resolution separately)
+Demo app     : example_yolo26.exe  (v2.1+, Release build 2026-10-09 with D2C mode 17)
+Tested with  : InuDev 4.39 (also runs on 4.36, not guaranteed)
+Target       : Inuitive NU4100 eval kit / module, Windows x64
+Source       : example_yolo26_1008 (internal project, do not redistribute)
